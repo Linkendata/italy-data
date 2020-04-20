@@ -2,6 +2,7 @@
 https://linkendata.it
 <br>
 [![GitHub commit](https://img.shields.io/github/last-commit/Linkendata/italy-data)](https://github.com/Linkendata/italy-data/commits/master)
+![GitHub](https://img.shields.io/github/license/Linkendata/italy-data?label=CC)
 
 **Data Sources**
 
