@@ -1,7 +1,9 @@
+
 <img src="https://linkendata.it/wp-content/uploads/2019/12/logo-linkendata-160.png" alt="linkendata" width="200" />
 https://linkendata.it<br>
 -------------------------<br>
-Updated on 20/04/2020<br>
+
+[![GitHub commit](https://img.shields.io/github/last-commit/Linkendata/italy-data)](https://github.com/Linkendata/italy-data/commits/master)
 -------------------------<br>
 <b>Data Sources</b> 
 <ul>
