@@ -17,14 +17,14 @@ Linkendata assumes no responsibility about the validity of the data and for any 
 **provinces.json** <br>
 This file provide the relatives datas for each italian region:
 ```
-|
-|-- region_code         // Code of the Region (ISTAT 2019)
-|   name                // Name of the Region
-|   population          // Population (ISTAT 2019)
+
+|-- region_code        // Code of the Region (ISTAT 2019)
+|-- name               // Name of the Region
+|-- population         // Population (ISTAT 2019)
 |-- provinces
-    |--  code           // Code of the Province (ISTAT 2019)
-         name           // Name of the Province (ISTAT 2019)
-         tag            // Province Abbreviation
-         population     // Population of the Province (ISTAT 2019)
-         area           // Area in square kilometers (Source https://tuttitalia.it)
+|   |-- code           // Code of the Province (ISTAT 2019)
+|   |-- name           // Name of the Province (ISTAT 2019)
+|   |-- tag            // Province Abbreviation
+|   |-- population     // Population of the Province (ISTAT 2019)
+|   |-- area           // Area in square kilometers (Source https://tuttitalia.it)
  ```
