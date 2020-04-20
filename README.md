@@ -3,8 +3,10 @@
 https://linkendata.it<br>
 -------------------------<br>
 
-[![GitHub commit](https://img.shields.io/github/last-commit/Linkendata/italy-data)](https://github.com/Linkendata/italy-data/commits/master)
--------------------------<br>
+[![GitHub commit](https://img.shields.io/github/last-commit/Linkendata/italy-data)](https://github.com/Linkendata/italy-data/commits/master) 
+![GitHub All Releases](https://img.shields.io/github/downloads/Linkendata/italy-data/total)
+![GitHub watchers](https://img.shields.io/github/watchers/Linkendata/italy-data?style=social)
+
 <b>Data Sources</b> 
 <ul>
 <li><a href="http://dati.istat.it/Index.aspx?QueryId=18460#" target="_blank">ISTAT - Popolazione Italia al 1° Gennaio 2019 </a></li>
