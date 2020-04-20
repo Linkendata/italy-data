@@ -14,7 +14,7 @@ The purpose of this repository is to provide italian data in json format, which 
 of web applications.<br>
 Linkendata assumes no responsibility about the validity of the data and for any damage caused by its use.<br>
 
-**provinces.json**
+**provinces.json** <br>
 This file provide the relatives datas for each italian region:
 ```
 |
