@@ -4,7 +4,6 @@ https://linkendata.it<br>
 -------------------------<br>
 
 [![GitHub commit](https://img.shields.io/github/last-commit/Linkendata/italy-data)](https://github.com/Linkendata/italy-data/commits/master) 
-![GitHub All Releases](https://img.shields.io/github/downloads/Linkendata/italy-data/total)
 ![GitHub watchers](https://img.shields.io/github/watchers/Linkendata/italy-data?style=social)
 
 <b>Data Sources</b> 
