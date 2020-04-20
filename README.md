@@ -28,7 +28,7 @@ This file provide the relatives datas for each italian provinces:
 |   |-- population     // Population of the Province (ISTAT 2019)
 |   |-- area           // Area in square kilometers (Source https://tuttitalia.it)
  ```
- <br>
+
  **provinces_geocoding.json** <br>
  This file provide the relatives datas for each italian provinces:
  ```
