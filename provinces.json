@@ -1,32 +1,33 @@
 [
     {
-        "region_code": 13,
+        "region_code": "13",
         "name": "Abruzzo",
         "population": 1311580,
+        "area" : 10831.84,
         "provinces":[
             {
-                "code": 069,
+                "code": "069",
                 "name": "Chieti",
                 "tag": "CH",
                 "population": 385588,
                 "area": 2599.58
             },
             {
-                "code": 066,
+                "code": "066",
                 "name": "L'Aquila",
                 "tag": "AQ",
                 "population": 299031,
                 "area": 5047.55
             },
             {
-                "code": 068,
+                "code": "068",
                 "name": "Pescara",
                 "tag": "PE",
                 "population": 318909,
                 "area": 1230.33
             },
             {
-                "code": 067,
+                "code": "067",
                 "name": "Teramo",
                 "tag": "TE",
                 "population": 308052,
@@ -35,19 +36,20 @@
         ]
     },
     {
-        "region_code": 17,
+        "region_code": "17",
         "name": "Basilicata",
         "population": 562869,
+        "area" : 10073.32,
         "provinces":[
             {
-                "code": 077,
+                "code": "077",
                 "name": "Matera",
                 "tag": "MT",
                 "population": 197909,
                 "area": 3478.89
             },
             {
-                "code": 076,
+                "code": "076",
                 "name": "Potenza",
                 "tag": "PZ",
                 "population": 364960,
@@ -56,12 +58,13 @@
         ]
     },
     {
-        "region_code": 4,
+        "region_code": "04",
         "name": "P.A. Bolzano",
         "population": 531178,
+        "area" : 7398.38,
         "provinces":[
             {
-                "code": 021,
+                "code": "021",
                 "name": "Bolzano",
                 "tag": "BZ",
                 "population": 531178,
@@ -70,40 +73,41 @@
         ]
     },
     {
-        "region_code": 18,
+        "region_code": "18",
         "name": "Calabria",
         "population": 1947131,
+        "area" : 15221.90,
         "provinces":[
             {
-                "code": 079,
+                "code": "079",
                 "name": "Catanzaro",
                 "tag": "CZ",
                 "population": 358316,
                 "area": 2415.45
             },
             {
-                "code": 078,
+                "code": "078",
                 "name": "Cosenza",
                 "tag": "CS",
                 "population": 705753,
                 "area": 6709.75
             },
             {
-                "code": 101,
+                "code": "101",
                 "name": "Crotone",
                 "tag": "KR",
                 "population": 174980,
                 "area": 1735.68
             },
             {
-                "code": 80,
+                "code": "80",
                 "name": "Reggio di Calabria",
                 "tag": "RC",
                 "population": 548009,
                 "area": 3210.37
             },
             {
-                "code": 102,
+                "code": "102",
                 "name": "Vibo Valentia",
                 "tag": "VV",
                 "population": 160073,
@@ -112,40 +116,41 @@
         ]
     },
     {
-        "region_code": 15,
+        "region_code": "15",
         "name": "Campania",
         "population": 5801692,
+        "area" : 13670.95,
         "provinces":[
             {
-                "code": 064,
+                "code": "064",
                 "name": "Avellino",
                 "tag": "AV",
                 "population": 418306,
                 "area": 2806.07
             },
             {
-                "code": 062,
+                "code": "062",
                 "name": "Benevento",
                 "tag": "BN",
                 "population": 277018,
                 "area": 2080.44
             },
             {
-                "code": 061,
+                "code": "061",
                 "name": "Caserta",
                 "tag": "CE",
                 "population": 922965,
                 "area": 2651.35
             },
             {
-                "code": 063,
+                "code": "063",
                 "name": "Napoli",
                 "tag": "NA",
                 "population": 3084890,
                 "area": 1178.93
             },
             {
-                "code": 065,
+                "code": "065",
                 "name": "Salerno",
                 "tag": "SA",
                 "population": 1098513,
@@ -154,68 +159,69 @@
         ]
     },
     {
-        "region_code": 8,
+        "region_code": "08",
         "name": "Emilia-Romagna",
         "population": 4459477,
+        "area" : 22452.78,
         "provinces":[
             {
-                "code": 037,
+                "code": "037",
                 "name": "Bologna",
                 "tag": "BO",
                 "population": 1014619,
                 "area": 3702.32
             },
             {
-                "code": 038,
+                "code": "038",
                 "name": "Ferrara",
                 "tag": "FE",
                 "population": 345691,
                 "area": 2635.12
             },
             {
-                "code": 040,
+                "code": "040",
                 "name": "Forlì-Cesena",
                 "tag": "FC",
                 "population": 394627,
                 "area": 2378.40
             },
             {
-                "code": 036,
+                "code": "036",
                 "name": "Modena",
                 "tag": "MO",
                 "population": 705393,
                 "area": 2688.02
             },
             {
-                "code": 034,
+                "code": "034",
                 "name": "Parma",
                 "tag": "PR",
                 "population": 451631,
                 "area": 3447.48
             },
             {
-                "code": 033,
+                "code": "033",
                 "name": "Piacenza",
                 "tag": "PC",
                 "population": 287152,
                 "area": 2585.86
             },
             {
-                "code": 039,
+                "code": "039",
                 "name": "Ravenna",
                 "tag": "RA",
                 "population": 389456,
                 "area": 1859.44
             },
             {
-                "code": 035,
+                "code": "035",
                 "name": "Reggio nell'Emilia",
                 "tag": "RE",
                 "population": 531891,
                 "area": 2291.26
             },
             {
-                "code": 099,
+                "code": "099",
                 "name": "Rimini",
                 "tag": "RN",
                 "population": 339017,
@@ -224,33 +230,34 @@
         ]
     },
     {
-        "region_code": 6,
+        "region_code": "06",
         "name": "Friuli Venezia Giulia",
         "population": 1215220,
+        "area" : 7924.36,
         "provinces":[
             {
-                "code": 031,
+                "code": "031",
                 "name": "Gorizia",
                 "tag": "GO",
                 "population": 139403,
                 "area": 467.14
             },
             {
-                "code": 093,
+                "code": "093",
                 "name": "Pordenone",
                 "tag": "PN",
                 "population": 312533,
                 "area": 2275.42
             },
             {
-                "code": 032,
+                "code": "032",
                 "name": "Trieste",
                 "tag": "TS",
                 "population": 234493,
                 "area": 212.51
             },
             {
-                "code": 030,
+                "code": "030",
                 "name": "Udine",
                 "tag": "UD",
                 "population": 528791,
@@ -259,40 +266,41 @@
         ]
     },
     {
-        "region_code": 12,
+        "region_code": "12",
         "name": "Lazio",
         "population": 5879082,
+        "area" : ,
         "provinces":[
             {
-                "code": 060,
+                "code": "060",
                 "name": "Frosinone",
                 "tag": "FR",
                 "population": 489083,
                 "area": 3247.08
             },
             {
-                "code": 059,
+                "code": "059",
                 "name": "Latina",
                 "tag": "LT",
                 "population": 575254,
                 "area": 2256.16
             },
             {
-                "code": 057,
+                "code": "057",
                 "name": "Rieti",
                 "tag": "RI",
                 "population": 155503,
                 "area": 2750.52
             },
             {
-                "code": 058,
+                "code": "058",
                 "name": "Roma",
                 "tag": "RM",
                 "population": 4342212,
                 "area": 5363.28
             },
             {
-                "code": 056,
+                "code": "056",
                 "name": "Viterbo",
                 "tag": "VT",
                 "population": 317030,
@@ -301,33 +309,34 @@
         ]
     },
     {
-        "region_code": 7,
+        "region_code": "07",
         "name": "Liguria",
         "population": 1550640,
+        "area" : 17232.29,
         "provinces":[
             {
-                "code": 010,
+                "code": "010",
                 "name": "Genova",
                 "tag": "GE",
                 "population": 841180,
                 "area": 1833.79
             },
             {
-                "code": 008,
+                "code": "008",
                 "name": "Imperia",
                 "tag": "IM",
                 "population": 213840,
                 "area": 1154.78
             },
             {
-                "code": 011,
+                "code": "011",
                 "name": "La Spezia",
                 "tag": "SP",
                 "population": 219556,
                 "area": 881.35
             },
             {
-                "code": 009,
+                "code": "009",
                 "name": "Savona",
                 "tag": "SV",
                 "population": 276064,
@@ -336,89 +345,90 @@
         ]
     },
     {
-        "region_code": 3,
+        "region_code": "03",
         "name": "Lombardia",
         "population": 10060574,
+        "area" : 23863.65,
         "provinces":[
             {
-                "code": 016,
+                "code": "016",
                 "name": "Bergamo",
                 "tag": "BG",
                 "population": 1114590,
                 "area": 2754.90
             },
             {
-                "code": 017,
+                "code": "017",
                 "name": "Brescia",
                 "tag": "BS",
                 "population": 1265954,
                 "area": 4785.62
             },
             {
-                "code": 013,
+                "code": "013",
                 "name": "Como",
                 "tag": "CO",
                 "population": 599204,
                 "area": 1279.04
             },
             {
-                "code": 019,
+                "code": "019",
                 "name": "Cremona",
                 "tag": "CR",
                 "population": 358955,
                 "area": 1770.46
             },
             {
-                "code": 097,
+                "code": "097",
                 "name": "Lecco",
                 "tag": "LC",
                 "population": 337380,
                 "area": 805.61
             },
             {
-                "code": 098,
+                "code": "098",
                 "name": "Lodi",
                 "tag": "LO",
                 "population": 230198,
                 "area": 782.99
             },
             {
-                "code": 020,
+                "code": "020",
                 "name": "Mantova",
                 "tag": "MN",
                 "population": 412292,
                 "area": 2341.44
             },
             {
-                "code": 015,
+                "code": "015",
                 "name": "Milano",
                 "tag": "MI",
                 "population": 3250315,
                 "area": 1575.65
             },
             {
-                "code": 108,
+                "code": "108",
                 "name": "Monza e della Brianza",
                 "tag": "MB",
                 "population": 873935,
                 "area": 405.41
             },
             {
-                "code": 018,
+                "code": "018",
                 "name": "Pavia",
                 "tag": "PV",
                 "population": 545888,
                 "area": 2968.64
             },
             {
-                "code": 014,
+                "code": "014",
                 "name": "Sondrio",
                 "tag": "SO",
                 "population": 181095,
                 "area": 3195.76
             },
             {
-                "code": 012,
+                "code": "012",
                 "name": "Varese",
                 "tag": "VA",
                 "population": 890768,
@@ -427,40 +437,41 @@
         ]
     },
     {
-        "region_code": 11,
+        "region_code": "11",
         "name": "Marche",
         "population": 1525271,
+        "area" : 9401.38,
         "provinces":[
             {
-                "code": 042,
+                "code": "042",
                 "name": "Ancona",
                 "tag": "AN",
                 "population": 471228,
                 "area": 1963.22
             },
             {
-                "code": 044,
+                "code": "044",
                 "name": "Ascoli Piceno",
                 "tag": "AP",
                 "population": 207179,
                 "area": 1228.27
             },
             {
-                "code": 109,
+                "code": "109",
                 "name": "Fermo",
                 "tag": "FM",
                 "population": 173800,
                 "area": 862.77
             },
             {
-                "code": 043,
+                "code": "043",
                 "name": "Macerata",
                 "tag": "MC",
                 "population": 314178,
                 "area": 2779.34
             },
             {
-                "code": 041,
+                "code": "041",
                 "name": "Pesaro Urbino",
                 "tag": "PU",
                 "population": 358886,
@@ -469,19 +480,20 @@
         ]
     },
     {
-        "region_code": 14,
+        "region_code": "14",
         "name": "Molise",
         "population": 305617,
+        "area" : 4460.65,
         "provinces":[
             {
-                "code": 070,
+                "code": "070",
                 "name": "Campobasso",
                 "tag": "CB",
                 "population": 221238,
                 "area": 2925.41
             },
             {
-                "code": 094,
+                "code": "094",
                 "name": "Isernia",
                 "tag": "IS",
                 "population": 84379,
@@ -490,61 +502,62 @@
         ]
     },
     {
-        "region_code": 1,
+        "region_code": "01",
         "name": "Piemonte",
         "population": 4356406,
+        "area" : 25387.07,
         "provinces":[
             {
-                "code": 006,
+                "code": "006",
                 "name": "Alessandria",
                 "tag": "AL",
                 "population": 421284,
                 "area": 3558.83
             },
             {
-                "code": 005,
+                "code": "005",
                 "name": "Asti",
                 "tag": "AT",
                 "population": 214638,
                 "area": 1510.19
             },
             {
-                "code": 096,
+                "code": "096",
                 "name": "Biella",
                 "tag": "BI",
                 "population": 175585,
                 "area": 913.28
             },
             {
-                "code": 004,
+                "code": "004",
                 "name": "Cuneo",
                 "tag": "CN",
                 "population": 587098,
                 "area": 6894.94
             },
             {
-                "code": 003,
+                "code": "003",
                 "name": "Novara",
                 "tag": "NO",
                 "population": 369018,
                 "area": 1340.28
             },
             {
-                "code": 001,
+                "code": "001",
                 "name": "Torino",
                 "tag": "TO",
                 "population": 2259523,
                 "area": 6827.00
             },
             {
-                "code": 103,
+                "code": "103",
                 "name": "Verbano-Cusio-Ossola",
                 "tag": "VB",
                 "population": 158349,
                 "area": 2260.91
             },
             {
-                "code": 002,
+                "code": "002",
                 "name": "Vercelli",
                 "tag": "VC",
                 "population": 170911,
@@ -553,47 +566,48 @@
         ]
     },
     {
-        "region_code": 16,
+        "region_code": "16",
         "name": "Puglia",
         "population": 4029053,
+        "area" : 19540.90,
         "provinces":[
             {
-                "code": 072,
+                "code": "072",
                 "name": "Bari",
                 "tag": "BA",
                 "population": 1251994,
                 "area": 3862.88
             },
             {
-                "code": 110,
+                "code": "110",
                 "name": "Barletta-Andria-Trani",
                 "tag": "BT",
                 "population": 390011,
                 "area": 1542.95
             },
             {
-                "code": 074,
+                "code": "074",
                 "name": "Brindisi",
                 "tag": "BR",
                 "population": 392975,
                 "area": 1861.12
             },
             {
-                "code": 071,
+                "code": "071",
                 "name": "Foggia",
                 "tag": "FG",
                 "population": 622183,
                 "area": 7007.54
             },
             {
-                "code": 075,
+                "code": "075",
                 "name": "Lecce",
                 "tag": "LE",
                 "population": 795134,
                 "area": 2799.07
             },
             {
-                "code": 073,
+                "code": "073",
                 "name": "Taranto",
                 "tag": "TA",
                 "population": 576756,
@@ -602,40 +616,41 @@
         ]
     },
     {
-        "region_code": 20,
+        "region_code": "20",
         "name": "Sardegna",
         "population": 1639591,
+        "area" : 24100.02,
         "provinces":[
             {
-                "code": 092,
+                "code": "092",
                 "name": "Cagliari",
                 "tag": "CA",
                 "population": 431038,
                 "area": 1248.68
             },
             {
-                "code": 091,
+                "code": "091",
                 "name": "Nuoro",
                 "tag": "NU",
                 "population": 208550,
                 "area": 5638.02
             },
             {
-                "code": 095,
+                "code": "095",
                 "name": "Oristano",
                 "tag": "OR",
                 "population": 157707,
                 "area": 2990.45
             },
             {
-                "code": 090,
+                "code": "090",
                 "name": "Sassari",
                 "tag": "SS",
                 "population": 491571,
                 "area": 7692.09
             },
             {
-                "code": 111,
+                "code": "111",
                 "name": "Sud Sardegna",
                 "tag": "SU",
                 "population": 350725,
@@ -644,68 +659,69 @@
         ]
     },
     {
-        "region_code": 19,
+        "region_code": "19",
         "name": "Sicilia",
         "population": 4999891,
+        "area" : 25832.39,
         "provinces":[
             {
-                "code": 084,
+                "code": "084",
                 "name": "Agrigento",
                 "tag": "AG",
                 "population": 434870,
                 "area": 3052.59
             },
             {
-                "code": 085,
+                "code": "085",
                 "name": "Caltanissetta",
                 "tag": "CL",
                 "population": 262458,
                 "area": 2138.37
             },
             {
-                "code": 087,
+                "code": "087",
                 "name": "Catania",
                 "tag": "CT",
                 "population": 1107702,
                 "area": 3573.68
             },
             {
-                "code": 086,
+                "code": "086",
                 "name": "Enna",
                 "tag": "EN",
                 "population": 164788,
                 "area": 2574.70
             },
             {
-                "code": 083,
+                "code": "083",
                 "name": "Messina",
                 "tag": "ME",
                 "population": 626876,
                 "area": 3266.12
             },
             {
-                "code": 082,
+                "code": "082",
                 "name": "Palermo",
                 "tag": "PA",
                 "population": 1252588,
                 "area": 5009.28
             },
             {
-                "code": 088,
+                "code": "088",
                 "name": "Ragusa",
                 "tag": "RG",
                 "population": 320893,
                 "area": 1623.89
             },
             {
-                "code": 089,
+                "code": "089",
                 "name": "Siracusa",
                 "tag": "SR",
                 "population": 399224,
                 "area": 2124.13
             },
             {
-                "code": 081,
+                "code": "081",
                 "name": "Trapani",
                 "tag": "TP",
                 "population": 430492,
@@ -714,75 +730,76 @@
         ]
     },
     {
-        "region_code": 9,
+        "region_code": "09",
         "name": "Toscana",
         "population": 3729641,
+        "area" : 22987.04,
         "provinces":[
             {
-                "code": 051,
+                "code": "051",
                 "name": "Arezzo",
                 "tag": "AR",
                 "population": 342654,
                 "area": 3233.08
             },
             {
-                "code": 048,
+                "code": "048",
                 "name": "Firenze",
                 "tag": "FI",
                 "population": 1011349,
                 "area": 3513.69
             },
             {
-                "code": 053,
+                "code": "053",
                 "name": "Grosseto",
                 "tag": "GR",
                 "population": 221629,
                 "area": 4503.12
             },
             {
-                "code": 049,
+                "code": "049",
                 "name": "Livorno",
                 "tag": "LI",
                 "population": 334832,
                 "area": 1213.71
             },
             {
-                "code": 046,
+                "code": "046",
                 "name": "Lucca",
                 "tag": "LU",
                 "population": 387876,
                 "area": 1773.22
             },
             {
-                "code": 045,
+                "code": "045",
                 "name": "Massa Carrara",
                 "tag": "MS",
                 "population": 194878,
                 "area": 1154.68
             },
             {
-                "code": 050,
+                "code": "050",
                 "name": "Pisa",
                 "tag": "PI",
                 "population": 419037,
                 "area": 2444.72
             },
             {
-                "code": 047,
+                "code": "047",
                 "name": "Pistoia",
                 "tag": "PT",
                 "population": 292473,
                 "area": 964.12
             },
             {
-                "code": 100,
+                "code": "100",
                 "name": "Prato",
                 "tag": "PO",
                 "population": 257716,
                 "area": 365.72
             },
             {
-                "code": 052,
+                "code": "052",
                 "name": "Siena",
                 "tag": "SI",
                 "population": 267197,
@@ -791,12 +808,13 @@
         ]
     },
     {
-        "region_code": 4,
+        "region_code": "04",
         "name": "P.A. Trento",
         "population": 541098,
+        "area" : 6207.12,
         "provinces":[
             {
-                "code": 022,
+                "code": "022",
                 "name": "Trento",
                 "tag": "TN",
                 "population": 541098,
@@ -805,19 +823,20 @@
         ]
     },
     {
-        "region_code": 10,
+        "region_code": "10",
         "name": "Umbria",
         "population": 882015,
+        "area" : 8464.33,
         "provinces":[
             {
-                "code": 054,
+                "code": "054",
                 "name": "Perugia",
                 "tag": "PG",
                 "population": 656382,
                 "area": 6337.15
             },
             {
-                "code": 055,
+                "code": "055",
                 "name": "Terni",
                 "tag": "TR",
                 "population": 225633,
@@ -826,12 +845,13 @@
         ]
     },
     {
-        "region_code": 2,
+        "region_code": "02",
         "name": "Valle d'Aosta",
         "population": 125666,
+        "area" : 3260.90,
         "provinces":[
             {
-                "code": 007,
+                "code": "007",
                 "name": "Aosta",
                 "tag": "AO",
                 "population": 125666,
@@ -840,54 +860,55 @@
         ]
     },
     {
-        "region_code": 5,
+        "region_code": "05",
         "name": "Veneto",
         "population": 4905854,
+        "area" : 18345.35,
         "provinces":[
             {
-                "code": 025,
+                "code": "025",
                 "name": "Belluno",
                 "tag": "BL",
                 "population": 202950,
                 "area": 3610.20
             },
             {
-                "code": 028,
+                "code": "028",
                 "name": "Padova",
                 "tag": "PD",
                 "population": 937908,
                 "area": 2144.15
             },
             {
-                "code": 029,
+                "code": "029",
                 "name": "Rovigo",
                 "tag": "RO",
                 "population": 234937,
                 "area": 1819.35
             },
             {
-                "code": 026,
+                "code": "026",
                 "name": "Treviso",
                 "tag": "TV",
                 "population": 887806,
                 "area": 2479.83
             },
             {
-                "code": 027,
+                "code": "027",
                 "name": "Venezia",
                 "tag": "VE",
                 "population": 853338,
                 "area": 2472.91
             },
             {
-                "code": 023,
+                "code": "023",
                 "name": "Verona",
                 "tag": "VR",
                 "population": 926497,
                 "area": 3096.39
             },
             {
-                "code": 024,
+                "code": "024",
                 "name": "Vicenza",
                 "tag": "VI",
                 "population": 862418,
